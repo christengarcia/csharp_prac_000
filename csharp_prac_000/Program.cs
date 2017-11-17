@@ -19,7 +19,8 @@ namespace csharp_prac_000
             }
             else
             {
-                Console.WriteLine("You need more sleep");
+                Console.WriteLine("You need more sleep now");
+
             }
         }
     }
